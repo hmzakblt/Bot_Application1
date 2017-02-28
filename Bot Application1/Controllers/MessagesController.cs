@@ -35,7 +35,7 @@ namespace Bot_Application1
                 }
                 else
                 {
-                    reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
+                    reply = activity.CreateReply($"Merhaba {activity.Text} ");
                     
                 }
                 
